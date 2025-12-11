@@ -30,3 +30,25 @@ pip install python-nmap Rich
 ```bash
 sudo apt install namp
 ``` 
+# Installation Process
+Clone the repostory:
+```bash 
+git clone https://github.com/Darkdoom2334/V1.0-Kali-Recon-Dashboard.git cd recon-dashboard
+```
+Make the script executable:
+```bash
+chmod +x recon_dashboard.py
+```
+## Usage
+Open up the script and set **YOUR** subnet:
+```python
+target_subnet = "Replace with your subnet"
+``` 
+Then run the dashboard:
+```bash
+./recon_dashboard.py
+```
+or
+```bash
+python3 recon_dashboard.py
+```
