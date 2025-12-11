@@ -33,7 +33,7 @@ sudo apt install namp
 # Installation Process
 Clone the repostory:
 ```bash 
-git clone https://github.com/Darkdoom2334/V1.0-Kali-Recon-Dashboard.git cd recon-dashboard
+git clone https://github.com/Darkdoom2334/V1.0-Kali-Recon-Dashboard.git
 ```
 Make the script executable:
 ```bash
