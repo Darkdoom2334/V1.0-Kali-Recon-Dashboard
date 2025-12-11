@@ -52,3 +52,19 @@ or
 ```bash
 python3 recon_dashboard.py
 ```
+## Updates Coming up
+* Adding Full OS Detection
+* Adding Command-ling arguments
+* Adding CVE (Common Vulnerabilities and Exposures) lookup for open ports
+* Adding service verision detection
+
+---
+
+# Author
+**Darkdoom Gamer**
+* Cybersecurity & Computer Engineering Student
+* Kali Linux/Python/Offensive and Defensive security Foucs
+
+# **DISCLAIMER**
+THIS TOOL IS USED FOR **EDUCATION AND AUTHORIZED TESTING ONLY!**
+SCANNING NETWORKS WITHOUT PERMISSION IS ILLEGAL!
