@@ -4,7 +4,7 @@ A fast, clean terminal-based network reconnaissance dashboard built with the hel
 This dashboard scans an entire subnet, detects open ports, evaluates host risk levels, displays it all in a nice dashboard format.
 
 Best for: 
-- Cybersecurity Fundimentals/Learning
+- Cybersecurity Fundamentals/Learning
 - Home Lab Recon
 - Future CTF Challenges
 - Quick Scanning On Kali Linux
@@ -13,15 +13,15 @@ Best for:
 ## Features
 - Subnet scanning using Nmap
 - Detects open ports on all active hosts
-- Built in **risk vulnribility system**
+- Built in **risk vulnerability system**
 - OS guesser
-- Formated table
+- Formatted table
 - Beginner friendly and easy to enhance. 
 
 ---
 
-## Things needed/Requirments
-Before runing the tool you need a to install:
+## Things needed/Requirements
+Before running the tool you need a to install:
 ### **Python Packages**
 ```bash
 pip install python-nmap Rich
@@ -56,14 +56,14 @@ python3 recon_dashboard.py
 * Adding Full OS Detection
 * Adding Command-ling arguments
 * Adding CVE (Common Vulnerabilities and Exposures) lookup for open ports
-* Adding service verision detection
+* Adding service version detection
 
 ---
 
 # Author
 **Darkdoom Gamer**
 * Cybersecurity & Computer Engineering Student
-* Kali Linux/Python/Offensive and Defensive security Foucs
+* Kali Linux/Python/Offensive and Defensive Security Focus
 
 # **DISCLAIMER**
 THIS TOOL IS USED FOR **EDUCATION AND AUTHORIZED TESTING ONLY!**
